@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PACKAGE_CORE_NAME="chaitin-xray"
-export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_NAME="xray"
+export PACKAGE_CORE_BIN_NAME="chaitin-xray"
 export PACKAGE_CORE_VERSION=v1.9.4
 export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/chaitin/xray/releases/download"

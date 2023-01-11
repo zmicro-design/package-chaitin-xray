@@ -10,6 +10,7 @@ help() {
 
 version() {
   chaitin-xray --version
+  # echo "v1.9.4"
 }
 
 core() {
